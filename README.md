@@ -9,7 +9,7 @@ my Master's degree in Economics at the University of Pisa, and my Bachelor's the
 - **Interest rate modeling:** Libor transition
 - **Machine Learning 1:** Implementation of various machine learning models on imbalanced datasets.
 - **Machine Learning 2:** Implementation of the Time Varing Graphical Lasso (TVGL) model to analyze structural changes in financial markets before, during, and after the COVID-19 pandemic.
-- **Insurance:** A project focusing on the asset and liabilities management.
+- **Insurance:** Stochastic asset and liabilities management.
 - **Stochastic Control:**
 
 
