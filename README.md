@@ -15,6 +15,8 @@ my Master's degree in Economics at the University of Pisa, and my Bachelor's the
 
 ### Master's in Economics at the University of Pisa
 - **Advanced Econometrics:** 4 projects on advanced econometric techniques.
+- **Financial Econometrics:**
+- **Corporate Finance:**
 
 ### Bachelor's Thesis in Economics and Commerce
 - **Title:** Rectangularization in Italy: Longevity Risk and Mortality Forecasting.
